@@ -1,0 +1,12 @@
+.dov{
+    border: 1px black solid;
+}
+
+.primary{
+    color: red;
+}
+.img{
+    height: 300px ;
+    text-align: left;
+    justify-content: left;
+}
